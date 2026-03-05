@@ -1,0 +1,6 @@
+---
+- name: Create file via my_own_module
+  my_own_module:
+    path: "{{ my_own_module_path }}"
+    content: "{{ my_own_module_content }}"
+    mode: "{{ my_own_module_mode }}"
