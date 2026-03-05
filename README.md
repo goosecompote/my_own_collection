@@ -6,5 +6,5 @@
 ![Задание](/pic/pic04.png)  
 ![Задание](/pic/pic05.png)  
 
-[collection](https://github.com/goosecompote/my_own_collection)
-[archive](https://github.com/goosecompote/my_own_collection/releases/tag/v1.0.0)
+[collection - https://github.com/goosecompote/my_own_collection](https://github.com/goosecompote/my_own_collection)  
+[archive - https://github.com/goosecompote/my_own_collection/releases/tag/v1.0.0](https://github.com/goosecompote/my_own_collection/releases/tag/v1.0.0)  
